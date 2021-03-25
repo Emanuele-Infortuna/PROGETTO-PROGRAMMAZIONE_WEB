@@ -1,1 +1,5 @@
 # PROGETTO-PROGRAMMAZIONE_WEB
+
+Sito web creato mediante l'utilizzo del framework Laravel assieme al mio collega Giuseppe Primerano.
+
+L’obbiettivo di questo progetto è quello di voler realizzare un sito web in cui tutti gli utenti che vengono a contatto con i locali dell’Ateneo possano segnalare dei problemi riscontrati all’interno degli stessi. I problemi segnalati verranno inseriti in un opportuno database e potranno essere visualizzati dai direttori di dipartimento che avvertiranno i tecnici che lavorano per l’Università per fare in modo che i problemi vengano risolti. L’utilizzo del nostro sito web fa sì che gli utenti aiutino i direttori dei diversi dipartimenti a venire a conoscenza di tutte le problematiche presenti nei locali di loro competenza e inoltre aiuterà i direttori a gestirle. Un altro fine che si pone il nostro progetto è di migliorare i prodotti e i servizi all'interno degli spazi universitari, creando un sistema di gestione delle segnalazioni e un sistema di gestione per le mansioni che dovranno essere svolte dai tecnici.
